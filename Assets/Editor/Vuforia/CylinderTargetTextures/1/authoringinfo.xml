@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Cohete" version="3.0" targetId="2b577efac75a4c8ab1d4d9521b1ff150" sideLength="10.690000" topDiameter="6.200000" bottomDiameter="6.200000" sideImage="Cohete.Body_scaled.jpg" topImage="Cohete.Top_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

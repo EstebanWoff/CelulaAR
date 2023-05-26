@@ -1,0 +1,394 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.91 0.91 0.91
+Tf 1.00 1.00 1.00
+map_Kd grueso.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd nucleolo.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd golgi_new.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:Celula1:blinn1SG
+illum 4
+Kd 0.31 0.59 0.73
+Ka 0.00 0.09 0.15
+Tf 0.85 0.85 0.85
+Ni 1.00
+Ks 0.08 0.13 0.46
+newmtl celula_Anima_mas1_luzl:Mitocondria_sola:mito_ok:Agua_mitocondria
+illum 4
+Kd 0.50 0.74 0.76
+Ka 0.22 0.32 0.33
+Tf 0.32 0.32 0.32
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl celula_Anima_mas1_luzl:Mitocondria_sola:mito_ok:___Default
+illum 4
+Kd 1.00 0.59 0.00
+Ka 0.43 0.25 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl celula_Anima_mas1_luzl:Mitocondria_sola:mito_ok:liston
+illum 4
+Kd 0.95 0.58 0.00
+Ka 0.95 0.58 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.32 0.32 0.32
+Ns 0.00
+newmtl celula_Anima_mas1_luzl:Mitocondria_sola:ribosoma:Ribosoma_03
+illum 4
+Kd 0.11 0.11 0.69
+Ka 0.08 0.08 0.52
+Tf 0.24 0.24 0.24
+Ni 1.50
+Ks 0.75 0.75 0.75
+Ns 27.00
+newmtl celula_Anima_mas1_luzl:blinn17SG
+illum 4
+Kd 0.63 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl celula_Anima_mas1_luzl:blinn18SG
+illum 4
+Kd 0.17 0.04 0.32
+Ka 0.83 0.83 0.83
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:blinn21SG
+illum 4
+Kd 0.68 0.42 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Ka -mm 0 0 mask_color.jpg
+bump -clamp off mask_color.jpg -bm 1
+Ni 1.00
+Ks 0.78 0.78 0.78
+newmtl celula_Anima_mas1_luzl:blinn22SG
+illum 4
+Kd 0.90 0.52 0.41
+Ka 0.25 0.25 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl celula_Anima_mas1_luzl:blinn23SG
+illum 4
+Kd 744.00 0.22 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump mask_color_barra_limpia.jpg -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:blinn24SG
+illum 4
+Kd 0.90 0.52 0.41
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.61 0.60 0.60
+newmtl celula_Anima_mas1_luzl:blinn28SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:blinn31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd comatina_ok3.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:blinn33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd citoplasma.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:blinn34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd centriolo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl celula_Anima_mas1_luzl:centriolo_unido:centriolos_barras:centriolo
+illum 4
+Kd 0.53 0.00 0.83
+Ka 0.65 0.00 0.77
+Tf 0.88 0.88 0.88
+Ni 1.50
+Ks 0.47 0.47 0.47
+Ns 10.00
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:blinn17SG
+illum 4
+Kd 0.63 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:blinn18SG
+illum 4
+Kd 0.17 0.04 0.32
+Ka 0.83 0.83 0.83
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:blinn21SG
+illum 4
+Kd 0.68 0.42 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Ka -mm 0 0 mask_color.jpg
+bump -clamp off mask_color.jpg -bm 1
+Ni 1.00
+Ks 0.78 0.78 0.78
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:blinn22SG
+illum 4
+Kd 0.90 0.52 0.41
+Ka 0.25 0.25 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:blinn23SG
+illum 4
+Kd 744.00 0.22 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump mask_color_barra_limpia.jpg -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:lambert6SG
+illum 4
+Kd 0.12 0.28 0.86
+Ka 0.64 0.64 0.64
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:lambert7SG
+illum 4
+Kd 0.00 0.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:lambert8SG
+illum 4
+Kd 0.25 0.25 0.76
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:lambert9SG
+illum 4
+Kd 0.12 0.28 0.86
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:cinturon_con_conos:lambert10SG
+illum 4
+Kd 0.96 0.99 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:esferainferiorazul:blinn18SG
+illum 4
+Kd 0.17 0.04 0.32
+Ka 0.83 0.83 0.83
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:esferainferiorazul1:blinn18SG
+illum 4
+Kd 0.17 0.04 0.32
+Ka 0.83 0.83 0.83
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl:gogi_agrupado:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd golgi.png
+bump golgi_new.png -bm 0.465839
+Ni 1.00
+Ks 0.32 0.32 0.32
+newmtl celula_Anima_mas1_luzl:gogi_agrupado:blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd plasma_proteina.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl celula_Anima_mas1_luzl:lambert6SG
+illum 4
+Kd 0.12 0.28 0.86
+Ka 0.64 0.64 0.64
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:lambert7SG
+illum 4
+Kd 0.00 0.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:lambert8SG
+illum 4
+Kd 0.05 0.00 0.67
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:lambert9SG
+illum 4
+Kd 0.12 0.28 0.86
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:lambert10SG
+illum 4
+Kd 0.96 0.99 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Anima_mas1_luzl:lisosoma:lisosoma:wire_196088225
+illum 4
+Kd 0.67 0.30 0.77
+Ka 0.67 0.30 0.77
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl celula_Anima_mas1_luzl:lisosoma:lisosoma:wire_213154229
+illum 4
+Kd 0.32 0.23 0.37
+Ka 0.84 0.60 0.90
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl celula_Anima_mas1_luzl:parte_rugoso:blinn21SG
+illum 4
+Kd 0.68 0.42 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Ka -mm 0 0 mask_color.jpg
+bump -clamp off mask_color.jpg -bm 1
+Ni 1.00
+Ks 0.78 0.78 0.78
+newmtl celula_Anima_mas1_luzl:tunel_nucleo_cerrado5:wire_184155229
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl celula_Anima_mas1_luzl1:blinn17SG
+illum 4
+Kd 0.63 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl celula_Anima_mas1_luzl1:blinn21SG
+illum 4
+Kd 0.68 0.42 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Ka -mm 0 0 mask_color.jpg
+bump -clamp off mask_color.jpg -bm 1
+Ni 1.00
+Ks 0.78 0.78 0.78
+newmtl celula_Anima_mas1_luzl1:blinn23SG
+illum 4
+Kd 744.00 0.22 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump mask_color_barra_limpia.jpg -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl1:blinn28SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Anima_mas1_luzl1:blinn31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd comatina_ok3.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl celula_Vegetal:cinturon_con_conos:lambert6SG
+illum 4
+Kd 0.12 0.28 0.86
+Ka 0.64 0.64 0.64
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Vegetal:lambert8SG
+illum 4
+Kd 0.05 0.00 0.67
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Vegetal1:lambert6SG
+illum 4
+Kd 0.12 0.28 0.86
+Ka 0.64 0.64 0.64
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl celula_Vegetal2:blinn17SG
+illum 4
+Kd 0.66 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.52 0.52 0.52
+Tf 1.00 1.00 1.00
+map_Kd adn_cloroplastico.png
+Ni 1.00
+newmtl nucleo_juan_dan1:cinturon_con_conos:lambert10SG
+illum 4
+Kd 0.96 0.99 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.87 0.87 0.87
+Tf 1.00 1.00 1.00
+map_Kd nucleolo.png
+Ni 1.00
+Ks 0.50 0.50 0.50
